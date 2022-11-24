@@ -25,7 +25,6 @@ st.write("Selected Class:", selected_class)
 
 
 # Display the content of the dataset if checkbox is true
-
 st.header("Dataset")
 agree = st.sidebar.checkbox("show DataSet Overview ? ")
 if agree:
